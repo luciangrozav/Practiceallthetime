@@ -1,17 +1,18 @@
 package org.fasttrackit;
 
+public class App {
 
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello Lucian! Welcome to practice!" );
-    }
+    public static void main(String[] args) {
 
-    int[] list = {1, 2, 3, 4, 5, 6};
+        System.out.println("Hello Lucian! Welcome to practice!");
 
-    for (int x:list)
-    {
-        System.out.println(x);
+
+        int prod=1;
+        int[] list = {1, 2, 3, 4, 5, 6};
+
+        for (int x : list) {
+            prod *=x;
+        }
+        System.out.println(prod);
     }
 }
