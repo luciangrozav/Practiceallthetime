@@ -38,5 +38,18 @@ public class App {
         FightClub fightClub = new FightClub(1999);
         fightClub.display();
 
+        fightClub.calculation(2, 3);
+        Troy troy = new Troy(2004);
+
+        troy.calculation(2);
+
+        System.out.println(Troy.mainactor());
+        Troy.display();
+
+        troy.setMinute(220);
+        troy.setScenes(30);
+
+        System.out.println("Troy has " + troy.getScenes() + " scenes and a total of " + troy.getMinute() + " minutes on the clock.");
+
     }
 }

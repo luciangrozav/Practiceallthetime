@@ -14,5 +14,10 @@ public class FightClub extends Movie {
         super(year);
     }
 
+    static void calculation(int n, int m) // polimorfism
+    {
+        System.out.println("Method calculating is: " + n*n*n*n*n*m);
+    }
+
 
 }

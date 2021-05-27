@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="356bfc3c-7957-4941-bd21-189e7c07d9fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/FightClub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Troy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/fasttrackit/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/fasttrackit/FightClub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/FightClub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/fasttrackit/Movie.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,15 +53,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -80,7 +79,9 @@
       <option name="presentableId" value="Default" />
       <updated>1621953622430</updated>
       <workItem from="1621953623960" duration="974000" />
-      <workItem from="1622024136389" duration="2108000" />
+      <workItem from="1622024136389" duration="2338000" />
+      <workItem from="1622028632698" duration="647000" />
+      <workItem from="1622109704198" duration="4156000" />
     </task>
     <task id="LOCAL-00001" summary="Practice-for enhanced">
       <created>1621954491509</created>
@@ -96,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621954570130</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Practice (3)">
+      <created>1622026474933</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622026474933</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +113,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Practice-for enhanced" />
     <MESSAGE value="Practice-for enhanced(2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice-for enhanced(2)" />
+    <MESSAGE value="Practice (3)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice (3)" />
   </component>
 </project>

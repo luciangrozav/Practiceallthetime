@@ -1,6 +1,7 @@
 package org.fasttrackit;
 
 abstract class Movie {
+
     protected final int yearofrelease;  // package-private
 
     int characternumber;
