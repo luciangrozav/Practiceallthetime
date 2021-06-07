@@ -26,6 +26,7 @@ public class Troy {
     {
         this.yearofrelease=year;
     }
+
     static void calculation(int n) // polimorfism
     {
         System.out.println("Method calculating is: " + n*n*n*n);

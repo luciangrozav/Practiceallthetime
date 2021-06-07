@@ -50,6 +50,18 @@ public class App {
         troy.setScenes(30);
 
         System.out.println("Troy has " + troy.getScenes() + " scenes and a total of " + troy.getMinute() + " minutes on the clock.");
+        System.out.println(" ");
+
+        TheDarkKnight tdk = new TheDarkKnight("Christopher Nolan", 152);
+
+        tdk.setName("The Dark Knight");
+
+        System.out.println(tdk.getName() + " movie is directed by " + tdk.moviedirector + " and has a time length of " + tdk.movieminutelength + " minutes.");
+        System.out.println(" ");
+
+        TheDarkKnight.fightscenes(5,2);
+        tdk.fightscenes(10, 2);
+
 
     }
 }
